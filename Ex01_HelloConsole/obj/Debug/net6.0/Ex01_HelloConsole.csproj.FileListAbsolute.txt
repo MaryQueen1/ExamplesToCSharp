@@ -1,0 +1,15 @@
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex01_HelloConsole\bin\Debug\net6.0\Ex01_HelloConsole.exe
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex01_HelloConsole\bin\Debug\net6.0\Ex01_HelloConsole.deps.json
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex01_HelloConsole\bin\Debug\net6.0\Ex01_HelloConsole.runtimeconfig.json
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex01_HelloConsole\bin\Debug\net6.0\Ex01_HelloConsole.dll
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex01_HelloConsole\bin\Debug\net6.0\Ex01_HelloConsole.pdb
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex01_HelloConsole\obj\Debug\net6.0\Ex01_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex01_HelloConsole\obj\Debug\net6.0\Ex01_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex01_HelloConsole\obj\Debug\net6.0\Ex01_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex01_HelloConsole\obj\Debug\net6.0\Ex01_HelloConsole.AssemblyInfo.cs
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex01_HelloConsole\obj\Debug\net6.0\Ex01_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex01_HelloConsole\obj\Debug\net6.0\Ex01_HelloConsole.dll
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex01_HelloConsole\obj\Debug\net6.0\refint\Ex01_HelloConsole.dll
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex01_HelloConsole\obj\Debug\net6.0\Ex01_HelloConsole.pdb
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex01_HelloConsole\obj\Debug\net6.0\Ex01_HelloConsole.genruntimeconfig.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex01_HelloConsole\obj\Debug\net6.0\ref\Ex01_HelloConsole.dll
