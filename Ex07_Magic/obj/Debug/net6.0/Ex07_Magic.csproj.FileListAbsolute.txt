@@ -1,0 +1,15 @@
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex07_Magic\bin\Debug\net6.0\Ex07_Magic.exe
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex07_Magic\bin\Debug\net6.0\Ex07_Magic.deps.json
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex07_Magic\bin\Debug\net6.0\Ex07_Magic.runtimeconfig.json
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex07_Magic\bin\Debug\net6.0\Ex07_Magic.dll
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex07_Magic\bin\Debug\net6.0\Ex07_Magic.pdb
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex07_Magic\obj\Debug\net6.0\Ex07_Magic.csproj.AssemblyReference.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex07_Magic\obj\Debug\net6.0\Ex07_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex07_Magic\obj\Debug\net6.0\Ex07_Magic.AssemblyInfoInputs.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex07_Magic\obj\Debug\net6.0\Ex07_Magic.AssemblyInfo.cs
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex07_Magic\obj\Debug\net6.0\Ex07_Magic.csproj.CoreCompileInputs.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex07_Magic\obj\Debug\net6.0\Ex07_Magic.dll
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex07_Magic\obj\Debug\net6.0\refint\Ex07_Magic.dll
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex07_Magic\obj\Debug\net6.0\Ex07_Magic.pdb
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex07_Magic\obj\Debug\net6.0\Ex07_Magic.genruntimeconfig.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex07_Magic\obj\Debug\net6.0\ref\Ex07_Magic.dll

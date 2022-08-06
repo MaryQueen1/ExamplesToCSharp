@@ -1,0 +1,15 @@
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex05_IfElse\bin\Debug\net6.0\Ex05_IfElse.exe
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex05_IfElse\bin\Debug\net6.0\Ex05_IfElse.deps.json
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex05_IfElse\bin\Debug\net6.0\Ex05_IfElse.runtimeconfig.json
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex05_IfElse\bin\Debug\net6.0\Ex05_IfElse.dll
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex05_IfElse\bin\Debug\net6.0\Ex05_IfElse.pdb
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex05_IfElse\obj\Debug\net6.0\Ex05_IfElse.csproj.AssemblyReference.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex05_IfElse\obj\Debug\net6.0\Ex05_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex05_IfElse\obj\Debug\net6.0\Ex05_IfElse.AssemblyInfoInputs.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex05_IfElse\obj\Debug\net6.0\Ex05_IfElse.AssemblyInfo.cs
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex05_IfElse\obj\Debug\net6.0\Ex05_IfElse.csproj.CoreCompileInputs.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex05_IfElse\obj\Debug\net6.0\Ex05_IfElse.dll
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex05_IfElse\obj\Debug\net6.0\refint\Ex05_IfElse.dll
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex05_IfElse\obj\Debug\net6.0\Ex05_IfElse.pdb
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex05_IfElse\obj\Debug\net6.0\Ex05_IfElse.genruntimeconfig.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex05_IfElse\obj\Debug\net6.0\ref\Ex05_IfElse.dll

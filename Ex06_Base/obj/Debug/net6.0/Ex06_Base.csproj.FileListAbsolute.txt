@@ -1,0 +1,15 @@
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex06_Base\bin\Debug\net6.0\Ex06_Base.exe
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex06_Base\bin\Debug\net6.0\Ex06_Base.deps.json
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex06_Base\bin\Debug\net6.0\Ex06_Base.runtimeconfig.json
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex06_Base\bin\Debug\net6.0\Ex06_Base.dll
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex06_Base\bin\Debug\net6.0\Ex06_Base.pdb
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex06_Base\obj\Debug\net6.0\Ex06_Base.csproj.AssemblyReference.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex06_Base\obj\Debug\net6.0\Ex06_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex06_Base\obj\Debug\net6.0\Ex06_Base.AssemblyInfoInputs.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex06_Base\obj\Debug\net6.0\Ex06_Base.AssemblyInfo.cs
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex06_Base\obj\Debug\net6.0\Ex06_Base.csproj.CoreCompileInputs.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex06_Base\obj\Debug\net6.0\Ex06_Base.dll
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex06_Base\obj\Debug\net6.0\refint\Ex06_Base.dll
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex06_Base\obj\Debug\net6.0\Ex06_Base.pdb
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex06_Base\obj\Debug\net6.0\Ex06_Base.genruntimeconfig.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\C Sharp\Ex06_Base\obj\Debug\net6.0\ref\Ex06_Base.dll
